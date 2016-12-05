@@ -12,3 +12,17 @@ Q:\Документы\Учебники\ДЗ\Интеллектуальные с�
 Q:\Документы\Учебники\ДЗ\Интеллектуальные системы\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.csproj.GenerateResource.Cache
 Q:\Документы\Учебники\ДЗ\Интеллектуальные системы\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.exe
 Q:\Документы\Учебники\ДЗ\Интеллектуальные системы\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.pdb
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\bin\Debug\SemanticIntellectualInformationalSystem.exe.config
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.exe
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.pdb
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\App.g.cs
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem_MarkupCompile.cache
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem_MarkupCompile.lref
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\bin\Debug\SemanticIntellectualInformationalSystem.exe
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\bin\Debug\SemanticIntellectualInformationalSystem.pdb
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.g.resources
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.Properties.Resources.resources
+C:\Users\user\Desktop\SemIIS\SemanticIntellectualInformationalSystem\SemanticIntellectualInformationalSystem\obj\Debug\SemanticIntellectualInformationalSystem.csproj.GenerateResource.Cache

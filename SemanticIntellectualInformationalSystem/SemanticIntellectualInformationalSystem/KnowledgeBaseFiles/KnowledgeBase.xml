@@ -190,7 +190,7 @@
     <reference>
       <id>32</id>
       <name>part_of</name>
-      <fromId>24</fromId>
+      <fromId>23</fromId>
       <toId>20</toId>
     </reference>
     <reference>
@@ -251,7 +251,7 @@
       <id>42</id>
       <name>срок гарантии</name>
       <fromId>13</fromId>
-      <toId>32</toId>
+      <toId>34</toId>
     </reference>
     <reference>
       <id>43</id>
@@ -263,13 +263,13 @@
       <id>44</id>
       <name>срок гарантии</name>
       <fromId>15</fromId>
-      <toId>34</toId>
+      <toId>32</toId>
     </reference>
     <reference>
       <id>45</id>
       <name>срок гарантии</name>
       <fromId>16</fromId>
-      <toId>32</toId>
+      <toId>34</toId>
     </reference>
     <reference>
       <id>46</id>
@@ -281,19 +281,67 @@
       <id>47</id>
       <name>срок гарантии</name>
       <fromId>18</fromId>
-      <toId>34</toId>
+      <toId>32</toId>
     </reference>
     <reference>
       <id>48</id>
       <name>срок гарантии</name>
       <fromId>19</fromId>
-      <toId>32</toId>
+      <toId>34</toId>
     </reference>
     <reference>
       <id>49</id>
       <name>срок гарантии</name>
       <fromId>20</fromId>
       <toId>33</toId>
+    </reference>
+	<reference>
+      <id>50</id>
+      <name>is_instance</name>
+      <fromId>13</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>51</id>
+      <name>is_instance</name>
+      <fromId>14</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>52</id>
+      <name>is_instance</name>
+      <fromId>15</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>53</id>
+      <name>is_instance</name>
+      <fromId>16</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>54</id>
+      <name>is_instance</name>
+      <fromId>17</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>55</id>
+      <name>is_instance</name>
+      <fromId>18</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>56</id>
+      <name>is_instance</name>
+      <fromId>19</fromId>
+      <toId>35</toId>
+    </reference>
+	<reference>
+      <id>57</id>
+      <name>is_instance</name>
+      <fromId>20</fromId>
+      <toId>35</toId>
     </reference>
   </references>
   <objects>
@@ -433,5 +481,9 @@
       <id>34</id>
       <name>6-7 лет</name>
     </obj>
+	<obj>
+	  <id>35</id>
+	  <name>Автомобиль</name>
+	</obj>
   </objects>
 </knowledgeBase>

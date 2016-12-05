@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SemanticIntellectualInformationalSystem.KnowledgeBase
 {
-    public class Obj:IObj
+    public class Obj : IObj
     {
         public string Name { get; }
         public string Id { get; }
@@ -37,3 +37,4 @@ namespace SemanticIntellectualInformationalSystem.KnowledgeBase
         }
     }
 }
+

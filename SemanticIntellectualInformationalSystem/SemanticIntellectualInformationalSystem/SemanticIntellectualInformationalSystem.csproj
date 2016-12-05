@@ -54,6 +54,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="LogicalOutputMechanism\AnswerFinders\AnswerFinder.cs" />
+    <Compile Include="LogicalOutputMechanism\AnswerFinders\WhatIsQualityOfCar.cs" />
+    <Compile Include="LogicalOutputMechanism\DepthSearch.cs" />
+    <Compile Include="LogicalOutputMechanism\DoWhithElementOnPath.cs" />
+    <Compile Include="LogicalOutputMechanism\LOM.cs" />
     <Compile Include="WorkingMemoryFactory\WMFactory.cs" />
     <Compile Include="WorkingMemory\WM.cs" />
     <Page Include="MainWindow.xaml">

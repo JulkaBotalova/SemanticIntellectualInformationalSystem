@@ -28,7 +28,7 @@ namespace SemanticIntellectualInformationalSystem.KnowledgeBase
 
             XElement referencesElem = document.Root.Element("references");
             List<Reference> references = new List<Reference>();
-            foreach(XElement referenceElem in referencesElem.Elements("reference"))
+            foreach (XElement referenceElem in referencesElem.Elements("reference"))
             {
                 string id = referenceElem.Element("id").Value;
                 string name = referenceElem.Element("name").Value;

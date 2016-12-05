@@ -1,4 +1,5 @@
-﻿using SemanticIntellectualInformationalSystem.WorkingMemory;
+﻿using SemanticIntellectualInformationalSystem.LogicalOutputMechanism;
+using SemanticIntellectualInformationalSystem.WorkingMemory;
 using SemanticIntellectualInformationalSystem.WorkingMemoryFactory;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace SemanticIntellectualInformationalSystem
     {
         public MainWindow()
         {
-            WM wm = WMFactory.CreateWM();
+            LOM lom = new LOM();
             InitializeComponent();
         }
     }
