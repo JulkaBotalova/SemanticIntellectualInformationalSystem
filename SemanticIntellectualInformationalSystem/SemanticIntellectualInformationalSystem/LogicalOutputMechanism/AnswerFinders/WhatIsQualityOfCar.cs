@@ -18,7 +18,7 @@ namespace SemanticIntellectualInformationalSystem.LogicalOutputMechanism.AnswerF
             IObj start = Wm.Objects.First(e => e.Name == carName);
             IObj goal = Wm.Objects.First(e => e.Name == "Качество автомобиля");
 
-            searcher.MakeDepthSearch(start, goal, DoWhithElementOnPath);
+            searcher.MakeDepthSearch(start, goal, false, DoWhithElementOnPath);
 
             string res = result;
             result = "";

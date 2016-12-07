@@ -55,7 +55,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="LogicalOutputMechanism\AnswerFinders\AnswerFinder.cs" />
+    <Compile Include="LogicalOutputMechanism\AnswerFinders\IsEngineTypeAPartOfCar.cs" />
     <Compile Include="LogicalOutputMechanism\AnswerFinders\WhatIsQualityOfCar.cs" />
+    <Compile Include="LogicalOutputMechanism\AnswerFinders\WhichCarsMadeInCountry.cs" />
     <Compile Include="LogicalOutputMechanism\DepthSearch.cs" />
     <Compile Include="LogicalOutputMechanism\DoWhithElementOnPath.cs" />
     <Compile Include="LogicalOutputMechanism\LOM.cs" />
